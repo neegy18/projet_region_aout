@@ -1,0 +1,164 @@
+body {
+    background-color: white;
+    font-family: Arial;
+    text-align: center;
+    margin: 10px;
+}
+
+.pageAccueil {
+    background-color: green;
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+h1 {
+    font-size: 30px;
+    margin: 5px;
+}
+
+nav {
+    margin-top: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 16px;
+    padding: 5px;
+    background-color: rgba(255, 255, 255, 0.295);
+    border-radius: 7px;
+}
+nav a:hover {
+    color: yellow;
+    transition: 0.5s ease;
+}
+.Copacabana {
+    width: 65%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+body {
+    background-color: white;
+    font-family: Arial;
+}
+
+.monuments {
+    background-color: lightgreen;
+    padding: 20px;
+    text-align: center;
+    height: 89vh;
+}
+
+.monuments h2 {
+    color: green;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.monument {
+    background-color: white;
+    border: 2px solid green;
+    padding: 15px;
+    width: 250px;
+}
+
+.monument img {
+    width: 100%;
+}
+
+.monument h3 {
+    color: green;
+}
+
+.monument:hover {
+    background-color: rgb(255, 255, 0);
+}
+
+body {
+    background-color: white;
+    font-family: Arial;
+}
+
+.nourritures {
+    background-color: lightgreen;
+    padding: 20px;
+    text-align: center;
+    height: 89vh;
+}
+
+.nourriture h2 {
+    color: green;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.nourriture {
+    background-color: white;
+    border: 2px solid green;
+    padding: 15px;
+    width: 250px;
+}
+
+.nourriture img {
+    width: 100%;
+}
+
+.nourriture h3 {
+    color: green;
+}
+
+.nourriture:hover {
+    background-color:rgb(255, 255, 0);
+}
+body {
+    background-color: white;
+    font-family: Arial;
+}
+
+.traditions {
+    background-color: lightgreen;
+    padding: 20px;
+    text-align: center;
+    height: 89vh;
+}
+
+.tradition h2 {
+    color: green;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.tradition {
+    background-color: white;
+    border: 2px solid green;
+    padding: 15px;
+    width: 250px;
+}
+
+.tradition img {
+    width: 100%;
+}
+
+.tradition h3 {
+    color: green;
+}
+
+.tradition:hover {
+    background-color:rgb(255, 255, 0);
+}
